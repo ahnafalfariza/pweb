@@ -1,4 +1,4 @@
-# Programming Web
+# Web Programming IUP
 ## Web Programming First Project
 
 Submit your Github Page URL. in txt files.
